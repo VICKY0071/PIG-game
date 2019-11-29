@@ -2,7 +2,7 @@
 This is my first java script project I made..
 
 # RULES:
-The rules are simple.  
+* The rules are simple.  
 Two players may compete.  
 The first player to reach specified points or more is the winner.  
 When it is your turn, you roll. If you get a 1 in the dice, then you pass the dice onto the next player.  
